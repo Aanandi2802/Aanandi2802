@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Aanandi Pankhania
 
-Skills: Python , Java , C , C++ , PHP , Git , HTML , CSS , MERN stack framework( MongoDB, Express.js, React.js, Node.js)
+Skills: Python , Java , C , C++ , PHP , Git , HTML , CSS , Django, MERN stack framework( MongoDB, Express.js, React.js, Node.js)
 
 🔭 I’m currently studing in Dharmsinh Desai University \
 📫 How to reach me: paanandi17141714@gmail.com
