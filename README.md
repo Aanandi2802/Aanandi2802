@@ -10,14 +10,6 @@
 - **Deployment Tools**: GitHub, Heroku, Netlify, Docker, AWS EC2, Kubernetes, Terraform
 - **Cloud Tools**: Google Cloud Functions, GCP triggers, AWS Lambda, AWS Triggers, Other AWS services  
 
-🔭 I’m currently studing in Dalhousie University \
-📫 How to reach me: paanandi17141714@gmail.com
-
-
-## Stats
-
- <p align-="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aanandi2802&show_icons=true&theme=merko" />
-
-![GitHub metrics](https://metrics.lecoq.io/Aanandi2802)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aanandi2802)  
+🔭 I’m currently studing in Dalhousie University pursuing Master's of Applied Computer Science  
+🎓 Current GPA: 4.1/4.3  
+📫 How to reach me: paanandi17141714@gmail.com / an936894@dal.ca   
