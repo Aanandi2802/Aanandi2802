@@ -2,9 +2,9 @@
 
 #### Technical Skills:
 
-Languages: Java, C, Python, JavaScript (including ES7+ features)
-Backend Technologies: Node.js, Express, AWS services (including Lambda and EC2)
-Frontend Technologies: React.js, EmberJS (basic), HTML, CSS, SCSS, JavaScript
+- Languages: Java, C, Python, JavaScript (including ES7+ features)
+- Backend Technologies: Node.js, Express, AWS services (including Lambda and EC2)
+- Frontend Technologies: React.js, EmberJS (basic), HTML, CSS, SCSS, JavaScript
 Databases: PostgreSQL, MongoDB, MySQL, DynamoDB, Firestore
 Developer Tools: Postman, Visual Studio Code, GitHub, Git (Version Control), GitLab
 Deployment Tools: GitHub, Heroku, Netlify, Docker, AWS EC2, Kubernetes and Terraform
