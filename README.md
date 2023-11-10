@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Aanandi Pankhania
 
-####Technical Skills:
+#### Technical Skills:
 
 Languages: Java, C, Python, JavaScript (including ES7+ features)
 Backend Technologies: Node.js, Express, AWS services (including Lambda and EC2)
