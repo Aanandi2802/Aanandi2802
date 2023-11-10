@@ -10,6 +10,7 @@
 - **Deployment Tools**: GitHub, Heroku, Netlify, Docker, AWS EC2, Kubernetes, Terraform
 - **Cloud Tools**: Google Cloud Functions, GCP triggers, AWS Lambda, AWS Triggers, Other AWS services
 
+\
 
 🔭 I’m currently studing in Dalhousie University \
 📫 How to reach me: paanandi17141714@gmail.com
